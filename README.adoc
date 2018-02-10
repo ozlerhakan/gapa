@@ -2,10 +2,10 @@
 
 Gapa, a macOS utility, enables you to hide files and folders located on your desktop.
 
-.Before hidding the items:
+.Before hiding the items:
 image:images/readme-visible.png[]
 
-.After hidding the items:
+.After hiding the items:
 image:images/readme-hidden.png[]
 
 == Creating a Standalone Gapa App
