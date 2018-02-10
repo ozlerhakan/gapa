@@ -25,6 +25,6 @@ $ cd gapa/
 $ python setup.py py2app
 ----
 
-You should see a folder, `dist` in the `gapa` folder. Copy and paste it to your `applications` folder.
+You should see a folder, `dist` in the `gapa` folder. Copy and paste `gapa.app` to your `applications` folder.
 
 Happy Gapaling..
