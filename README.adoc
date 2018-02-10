@@ -1,0 +1,30 @@
+= Gapa
+
+Gapa is a macOS utility to enable you to hide files and folders located on your desktop.
+
+.Before hidding the items:
+image:images/readme-visible.png[]
+
+.After hidding the items:
+image:images/readme-hidden.png[]
+
+== Creating a Standalone Gapa App
+
+Do you want to use this tool? Ah cool!
+
+Once you have the following prerequisites, you're good to go:
+
+* python 3+
+* py2app
+* rumps
+
+Run the command below:
+
+----
+$ cd gapa/
+$ python setup.py py2app
+----
+
+You should see a folder, `dist` in the `gapa` folder. Copy and paste to your application folder, that's it!
+
+Happy Gapaling.
